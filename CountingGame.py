@@ -53,5 +53,5 @@ class NUMBERSGAME():
                     else:
                         print("Try again")
         else:
-            division_problem()
+            NUMBERSGAME.division_problem()
 divisions =NUMBERSGAME.addition_problem()
